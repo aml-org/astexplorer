@@ -5,8 +5,8 @@
   "private": true,
   "author": "Felix Kling",
   "dependencies": {
-    "body-parser": "^1.15.2",
-    "express": "^4.14.0",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
     "github-api": "https://github.com/fkling/github.git"
   },
   "scripts": {
